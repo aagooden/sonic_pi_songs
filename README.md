@@ -15,7 +15,10 @@ In Sonic Pi, click "load" and select location of file named "sonic_songs".
 Select "/songs.rb"
 
 ### To use the App:
-Hit play button in Sonic Pi and follow console prompts.  
+Plug NanoKontrol into USB
+Hit play button in Sonic Pi and follow console prompts. 
+Use knobs and sliders to control Start, Stop, Volume, and Speed of playback.
+
 
 ### System Requirements:
 * Sonic Pi needs to be installed on your system.  
